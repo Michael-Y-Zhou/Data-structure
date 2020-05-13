@@ -8,7 +8,7 @@
 
 栈属于常见的一种线性结构，对于进栈和退栈而言，时间复杂度都为 O(1)
 
-![wm](C:\Users\xiaoyulong\Desktop\Data Structure\栈（Stack）\img\wm.png)
+![](img/wm.png)
 
 2、栈的实现
 
